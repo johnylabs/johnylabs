@@ -12,7 +12,7 @@ I'm a cybersecurity analyst with hands-on labs in Splunk, Wazuh, Python scriptin
 ### 📂 Highlight Projects
 - `home-soc-lab-splunk-wazuh` – End-to-end SOC simulation with alerting workflows
 - `cybersecurity-scripts-python` – Python tools for security use cases
-- `LLM-research` – Early research notes for local language models (non-SOC)
+- `LLM-research` – Research notes for local language models (non-SOC)
 
 > ⚡ Based in 🇨🇦 Canada and 🇦🇺 Australia | Open to Remote Roles
 
