@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Johny  
 
 I'm a cybersecurity analyst with hands-on labs in **Splunk**, **Wazuh**, **Python scripting**, and **Azure AD**.  
-Focused on SOC automation, security operations, and cloud fundamentals — all backed by real lab environments.
+Focused on SOC automation, security operations, and cloud fundamental... all backed by real lab environments.
 
 ---
 
