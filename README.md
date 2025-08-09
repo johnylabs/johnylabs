@@ -1,19 +1,37 @@
-# 👋 Hi, I’m Johny
+# 👋 Hi, I’m Johny  
 
-I'm a cybersecurity analyst with hands-on labs in Splunk, Wazuh, Python scripting, and Azure AD.
+I'm a cybersecurity analyst with hands-on labs in **Splunk**, **Wazuh**, **Python scripting**, and **Azure AD**.  
+Focused on SOC automation, security operations, and cloud fundamentals — all backed by real lab environments.
 
-### 🔧 My Current Focus
-- Constantly improving my home SOC lab (Splunk + Wazuh)
-- Python automation for log triage and alerting
-- Azure (AZ-900) and Active Directory fundamentals
-- ITIL and Tier 1–2 remote support workflows
-- Security analyst and SOA roles (remote)
+---
 
-### 📂 Highlight Projects
-- `home-soc-lab-splunk-wazuh` – End-to-end SOC simulation with alerting workflows
-- `cybersecurity-scripts-python` – Python tools for security use cases
-- `LLM-research` – Research notes for local language models (non-SOC)
+## 🛠 Tech Stack
 
-> ⚡ Based in 🇨🇦 Canada and 🇦🇺 Australia | Open to Remote Roles
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Splunk](https://img.shields.io/badge/Splunk-000000?logo=splunk&logoColor=white)
+![Wazuh](https://img.shields.io/badge/Wazuh-02569B?logo=wazuh&logoColor=white)
+![Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?logo=microsoftazure&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 
-📫 Contact: johny.grainger@pm.me
+---
+
+## 📌 Current Focus  
+- Constantly improving my **home SOC lab** (*Splunk + Wazuh*)  
+- **Python automation** for log triage and alerting  
+- Azure (AZ-900) and **Active Directory** fundamentals  
+- ITIL & Tier 1–2 remote security workflows  
+- SOC analyst & SOA roles (**remote**)  
+
+---
+
+## 🚀 Highlight Projects
+
+| Repo | Description |
+|------|-------------|
+| [**home-soc-lab-splunk-wazuh**](https://github.com/johnylabs/home-soc-lab-splunk-wazuh) | End-to-end SOC simulation with alerting workflows |
+| [**cybersecurity-scripts**](https://github.com/johnylabs/cybersecurity-scripts) | Python tools for security automation & log analysis |
+| [**llm-research**](https://github.com/johnylabs/llm-research) | Research notes for ethical AI & offline local LLMs |
+
+---
