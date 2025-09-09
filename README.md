@@ -32,7 +32,7 @@ Focused on SOC automation, log analysis, and incident response — all backed by
 
 | Repo | Description |
 |------|-------------|
-| [**soc-lab**](https://github.com/thread-blue/soc-lab) | End-to-end SOC lab with Splunk, Wazuh (SIEM), Suricata IDS, and DNS filtering. Built for log analysis, alerting, and automation. |
+| [**soc-lab-projects**](https://github.com/thread-blue/soc-lab-projects) | End-to-end SOC lab with Splunk, Wazuh (SIEM), Suricata IDS, and DNS filtering. Built for log analysis, alerting, and automation. |
 | [**cybersecurity-scripts**](https://github.com/thread-blue/cybersecurity-scripts) | Python tools for log parsing, threat detection, and SOC automation. Lab-tested within SOC Lab environment. |
 
 ---
