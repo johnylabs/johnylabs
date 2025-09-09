@@ -32,6 +32,5 @@ Focused on SOC automation, security operations, and cloud fundamental... all bac
 |------|-------------|
 | [**home-soc-lab-splunk-wazuh**](https://github.com/johnylabs/home-soc-lab-splunk-wazuh) | End-to-end SOC simulation with alerting workflows |
 | [**cybersecurity-scripts**](https://github.com/johnylabs/cybersecurity-scripts) | Python tools for security automation & log analysis |
-| [**llm-research**](https://github.com/johnylabs/llm-research) | Research notes for ethical AI & offline local LLMs |
 
 ---
