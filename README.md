@@ -30,7 +30,7 @@ Focused on SOC automation, security operations, and cloud fundamental... all bac
 
 | Repo | Description |
 |------|-------------|
-| [**home-soc-lab-splunk-wazuh**](https://github.com/johnylabs/home-soc-lab) | End-to-end SOC simulation with alerting workflows |
+| [**home-soc-lab**](https://github.com/johnylabs/home-soc-lab) | End-to-end SOC simulation with alerting workflows |
 | [**cybersecurity-scripts**](https://github.com/johnylabs/cybersecurity-scripts) | Python tools for security automation & log analysis |
 
 ---
