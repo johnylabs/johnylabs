@@ -24,7 +24,7 @@ Focused on SOC automation, log analysis, and incident response — all backed by
 - **Python automation** for log parsing, anomaly detection, and incident response  
 - Studying **Azure fundamentals (AZ-900)** + **Active Directory** integration  
 - Practicing detection, alerting, and reporting workflows for **Tier 1–2 SOC operations**  
-- Preparing for **CySA+** and **SSCP** certifications  
+- Preparing for **CySA+** and **CISSP** certifications  
 
 ---
 
