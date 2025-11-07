@@ -49,7 +49,6 @@ I build and document hands-on labs across AWS, Azure, and hybrid environments �
 ---
 
 ## 🚀 Current Focus
-- Completing **AWS Solutions Architect – Associate (SAA-C03)**  
 - Expanding my **SOC home lab** (Wazuh SIEM, Suricata IDS, Pi-hole DNS filtering)  
 - Developing **Python automation** for log parsing, anomaly detection, and response  
 - Strengthening **AWS + Azure hybrid security workflows**  
