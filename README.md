@@ -6,7 +6,6 @@ I build and document hands-on labs across AWS, Azure, and hybrid environments �
 ---
 
 ## 🧠 Certifications
-- 🟩 **AWS Certified Cloud Practitioner (CCP)**
 - 🟦 **AWS Certified Solutions Architect – Associate (SAA-C03)**
 - 🟧 **CompTIA Network+**
 - 🟥 **CompTIA Security+**
