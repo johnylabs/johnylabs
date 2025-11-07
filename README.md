@@ -7,7 +7,7 @@ I build and document hands-on labs across AWS, Azure, and hybrid environments �
 
 ## 🧠 Certifications
 - 🟩 **AWS Certified Cloud Practitioner (CCP)**
-- 🟦 **AWS Certified Solutions Architect – Associate (SAA-C03)** *(in progress)*
+- 🟦 **AWS Certified Solutions Architect – Associate (SAA-C03)**
 - 🟧 **CompTIA Network+**
 - 🟥 **CompTIA Security+**
 - 🟨 **Google Cybersecurity Certificate**
@@ -18,7 +18,6 @@ I build and document hands-on labs across AWS, Azure, and hybrid environments �
 ## 🎓 Education
 - 🎓 **Bachelor of Cloud and Network Engineering** *(in progress)*  
 - 🎯 **Planned Next:**
-  - AWS Certified SAP on AWS – **SAP-C02**
   - **CompTIA PenTest+**
   - **CompTIA CASP+**
   - **ISACA CISM**
