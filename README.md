@@ -1,8 +1,7 @@
-
 # 👋 Hi, I’m Johny
 
-Cloud & Cybersecurity Engineer focused on Python automation and app development for SOC and cloud security.  
-I build and document hands-on labs across AWS, Azure, and hybrid environments, integrating security monitoring, detection, and automated response workflows.
+Cloud & Cybersecurity Engineer focused on SOC operations, cloud infrastructure, and Python/LLM automation.  
+I build and document hands-on labs across AWS, Azure, and hybrid on-prem environments — integrating security monitoring, detection, and automated response workflows.
 
 ---
 
@@ -11,11 +10,20 @@ I build and document hands-on labs across AWS, Azure, and hybrid environments, i
 - [**Market Deviation Tracker**](https://github.com/johnylabs/Market-Deviation-Tracker)  
   Quantitative analysis tool that tracks grocery price movements, detects deviations from normal ranges, and highlights opportunities where consumers can exploit pricing inefficiencies.
 
-- [**SOC Incident Reports**](https://github.com/johnylabs/incident-reports)  
-  Simulated SOC case studies built on top of Wazuh and Suricata, including incident timelines, detection logic, and response runbooks for analyst training.
+- [**SOC Alert Automation**](https://github.com/johnylabs/soc-alert-automation)  
+  Python pipeline that ingests Wazuh/Suricata alerts, normalizes events, enriches with context, and sends notifications to chat (Discord/Slack-style) for fast analyst triage.
 
-- [**LUX Core**](https://github.com/johnylabs/lux-core)  
-  Experiments with ethical, offline LLMs for secure local deployment, focusing on SOC-assistant style workflows and keeping security data off third-party clouds.
+- [**Threat Hunting Lab**](https://github.com/johnylabs/threat-hunting)  
+  Hypothesis-driven hunts across Wazuh, Suricata, and cloud logs — with hunts, Sigma/Wazuh rules, and Jupyter notebooks for DNS tunneling, SSH brute force, and cloud anomalies.
+
+- [**Incident Reports**](https://github.com/johnylabs/incident-reports)  
+  Structured SOC incident write-ups with timelines, MITRE ATT&CK mapping, evidence, and lessons learned — written as if for a real SOC manager or client.
+
+- [**AI SOC Runbook QA**](https://github.com/johnylabs/ai-soc-runbook-qa)  
+  LLM-based assistant that reads SOC runbooks and incidents, then answers analyst questions and suggests response steps. Designed for offline / lab use first.
+
+- [**ES AI Immersion Lab**](https://github.com/johnylabs/es-ai-immersion-lab)  
+  Spanish learning lab using local and hosted LLMs to run structured conversation practice, correction, and vocab drills — built for daily Spanish immersion.
 
 ---
 
@@ -72,14 +80,15 @@ I build and document hands-on labs across AWS, Azure, and hybrid environments, i
 - **CompTIA PenTest+**  
 - **CompTIA CASP+**  
 - **ISACA CISM**  
-- **Master’s in Cyber Security – initial coursework started**
+- **M.S. in Cybersecurity / Information Assurance – program start**
 
 ---
 
 ## 🚀 Current Focus & What I’m Building
 
-- Expanding my **SOC home lab** (Wazuh SIEM, Suricata IDS, Pi-hole DNS filtering) to simulate real-world detection and response scenarios.  
-- Developing **Python automation pipelines** for log parsing, anomaly detection, alert enrichment, and ticket creation.  
-- Building **small cloud apps on AWS/Azure** (APIs and dashboards) that automate SOC workflows and security reporting.  
-- Shipping **AI-driven tools** (including Hugging Face Spaces) that turn security runbooks and logs into actionable guidance for analysts.  
-- Preparing for advanced certifications (**CISSP**, **PenTest+**, **CASP+**) through hands-on labs, incident simulations, and automation projects.
+- Expanding my **SOC home lab** (Wazuh SIEM, Suricata IDS, Pi-hole DNS filtering, pfSense/Proxmox) to simulate real-world detection and response scenarios.  
+- Developing **Python automation pipelines** for log parsing, anomaly detection, alert enrichment, and ticket/workflow creation.  
+- Building **small cloud apps on AWS/Azure** (APIs, dashboards, and automation scripts) that tie together SOC tooling and cloud security controls.  
+- Shipping **AI-driven tools** (local 3090 LLM gateway + Hugging Face Spaces) that turn runbooks, hunts, and incident reports into actionable guidance for analysts.  
+- Using the **ES AI Immersion Lab** to push toward fluent Spanish through daily AI-powered conversation practice.  
+- Preparing for advanced certifications (**CISSP track**, **PenTest+**, **CASP+**) through hands-on labs, incident simulations, and automation projects.
