@@ -14,7 +14,7 @@ I build and document hands-on labs across AWS, Azure, and hybrid environments, i
 - [**SOC Incident Reports**](https://github.com/johnylabs/incident-reports)  
   Simulated SOC case studies built on top of Wazuh and Suricata, including incident timelines, detection logic, and response runbooks for analyst training.
 
-- [**LLM Research**](https://github.com/johnylabs/lux-core)  
+- [**LUX Core**](https://github.com/johnylabs/lux-core)  
   Experiments with ethical, offline LLMs for secure local deployment, focusing on SOC-assistant style workflows and keeping security data off third-party clouds.
 
 ---
