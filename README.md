@@ -19,10 +19,10 @@ I build and document hands-on labs across AWS, Azure, and hybrid on-prem environ
 - [**Incident Reports**](https://github.com/johnylabs/incident-reports)  
   Structured SOC incident write-ups with timelines, MITRE ATT&CK mapping, evidence, and lessons learned — written as if for a real SOC manager or client.
 
-- [**AI SOC Runbook QA**](https://github.com/johnylabs/ai-soc-runbook-qa)  
+- [**AI Runbook QA**](https://github.com/johnylabs/ai-runbook-qa)  
   LLM-based assistant that reads SOC runbooks and incidents, then answers analyst questions and suggests response steps. Designed for offline / lab use first.
 
-- [**ES AI Immersion Lab**](https://github.com/johnylabs/es-ai-immersion-lab)  
+- [**ES AI Tutor**](https://github.com/johnylabs/es-ai-tutor)  
   Spanish learning lab using local and hosted LLMs to run structured conversation practice, correction, and vocab drills — built for daily Spanish immersion.
 
 ---
