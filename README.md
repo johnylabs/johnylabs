@@ -1,6 +1,7 @@
+
 # 👋 Hi, I’m Johny
 
-Cloud & Cybersecurity Engineer focused on SOC operations, cloud infrastructure, and automation.  
+Cloud & Cybersecurity Engineer focused on Python automation and app development for SOC and cloud security.  
 I build and document hands-on labs across AWS, Azure, and hybrid environments, integrating security monitoring, detection, and automated response workflows.
 
 ---
@@ -8,13 +9,13 @@ I build and document hands-on labs across AWS, Azure, and hybrid environments, i
 ## 📂 Featured Projects
 
 - [**Market Deviation Tracker**](https://github.com/johnylabs/Market-Deviation-Tracker)  
-  Quantitative analysis tool that tracks grocery price movements, identifies deviations from normal ranges, and visualizes opportunities where consumers can exploit pricing inefficiencies.
+  Quantitative analysis tool that tracks grocery price movements, detects deviations from normal ranges, and highlights opportunities where consumers can exploit pricing inefficiencies.
 
 - [**SOC Incident Reports**](https://github.com/johnylabs/incident-reports)  
-  Simulated SOC case studies backed by Wazuh and Suricata data, including incident timelines, detection logic, and response runbooks for analysts.
+  Simulated SOC case studies built on top of Wazuh and Suricata, including incident timelines, detection logic, and response runbooks for analyst training.
 
 - [**LLM Research**](https://github.com/johnylabs/llm-research)  
-  Experiments with ethical, offline AI for secure local deployment, focused on SOC-assistant style workflows and model isolation from cloud services.
+  Experiments with ethical, offline LLMs for secure local deployment, focusing on SOC-assistant style workflows and keeping security data off third-party clouds.
 
 ---
 
@@ -62,23 +63,23 @@ I build and document hands-on labs across AWS, Azure, and hybrid environments, i
 
 ---
 
-## 🎓 Education & Roadmap
+## 🎓 Education & 12-Month Roadmap
 
 - 🎓 **Bachelor of Cloud and Network Engineering** *(in progress)*  
 
-**Planned Next (12 Months):**
+**Next 12 Months (aggressive target):**
 
 - **CompTIA PenTest+**  
 - **CompTIA CASP+**  
 - **ISACA CISM**  
-- **Master’s in Cyber Security**
+- **Master’s in Cyber Security – initial coursework started**
 
 ---
 
-## 🚀 Current Focus
+## 🚀 Current Focus & What I’m Building
 
-- Expanding my **SOC home lab** with Wazuh SIEM, Suricata IDS, and Pi-hole DNS filtering to simulate real-world detection and response scenarios.  
+- Expanding my **SOC home lab** (Wazuh SIEM, Suricata IDS, Pi-hole DNS filtering) to simulate real-world detection and response scenarios.  
 - Developing **Python automation pipelines** for log parsing, anomaly detection, alert enrichment, and ticket creation.  
-- Hardening **AWS + Azure hybrid security workflows**, including logging, identity, and network controls across both clouds.  
-- Preparing for advanced certifications (**CISSP**, **PenTest+**, **CASP+**) through hands-on labs and incident simulations.  
-- Prototyping **offensive and defensive cybersecurity automation** to reduce mean time to detect (MTTD) and mean time to respond (MTTR).
+- Building **small cloud apps on AWS/Azure** (APIs and dashboards) that automate SOC workflows and security reporting.  
+- Shipping **AI-driven tools** (including Hugging Face Spaces) that turn security runbooks and logs into actionable guidance for analysts.  
+- Preparing for advanced certifications (**CISSP**, **PenTest+**, **CASP+**) through hands-on labs, incident simulations, and automation projects.
