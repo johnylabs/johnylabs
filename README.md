@@ -66,7 +66,7 @@ I build and document hands-on labs across AWS, Azure, and hybrid environments, i
 
 - 🎓 **Bachelor of Cloud and Network Engineering** *(in progress)*  
 
-**Planned Next (1–3 years):**
+**Planned Next (12 Months):**
 
 - **CompTIA PenTest+**  
 - **CompTIA CASP+**  
