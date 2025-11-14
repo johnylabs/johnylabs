@@ -7,6 +7,10 @@ I build and document hands-on labs across AWS, Azure, and hybrid on-prem environ
 
 ## 📂 Featured Projects
 
+- [**Security Event Explorer**](https://github.com/johnylabs/security-event-explorer)  
+  Full-stack React + Python web application for browsing, filtering, and annotating security alerts from my SOC lab.  
+  Includes a FastAPI backend, Postgres database, JWT auth, and a React UI for alert triage and analyst notes.
+
 - [**Market Deviation Tracker**](https://github.com/johnylabs/Market-Deviation-Tracker)  
   Quantitative analysis tool that tracks grocery price movements, detects deviations from normal ranges, and highlights opportunities where consumers can exploit pricing inefficiencies.
 
