@@ -101,5 +101,4 @@ My labs, incident reports, and automation projects are all designed to reflect r
 - Developing **Python automation pipelines** for log parsing, anomaly detection, alert enrichment, and ticket/workflow creation.  
 - Building **small cloud apps** (APIs, dashboards, automation scripts) that tie together SOC tooling and cloud security controls.  
 - Shipping **AI-driven tools** using a local 3090 LLM gateway + hosted models to turn runbooks, hunts, and incidents into actionable guidance.  
-- Using the **ES AI Immersion Lab** to push toward fluent Spanish through daily AI-powered conversation practice.  
-- Preparing for advanced certifications (**CISSP track**, **PenTest+**, **CASP+**) through hands-on labs and IR simulations.
+- Using the **ES AI Immersion Lab** to push toward fluent Spanish through daily AI-powered conversation practice. 
