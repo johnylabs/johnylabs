@@ -1,7 +1,17 @@
 # 👋 Hi, I’m Johny
 
-Cloud & Cybersecurity Engineer focused on SOC operations, cloud infrastructure, and Python/LLM automation.  
+Cloud & Cybersecurity Engineer on the **SOC Analyst → Incident Response → SecOps Manager** path.  
+Focused on SOC operations, cloud infrastructure, and Python/LLM automation.
+
 I build and document hands-on labs across AWS, Azure, and hybrid on-prem environments — integrating security monitoring, detection, and automated response workflows.
+
+---
+
+## 🎯 Career Path
+
+**SOC Internship → SOC Analyst → Incident Response → SecOps Manager**
+
+My labs, incident reports, and automation projects are all designed to reflect real responsibilities across this progression: alert triage, threat hunting, IR workflows, automation pipelines, and SecOps-level architecture.
 
 ---
 
@@ -67,22 +77,21 @@ I build and document hands-on labs across AWS, Azure, and hybrid on-prem environ
 
 ## 🧠 Certifications
 
-- 🟦 **Certified Ethical Hacker**
-- 🟦 **AWS Cloud Practictioner**
-- 🟧 **CompTIA Network+**
-- 🟥 **CompTIA Security+**
-- 🟨 **Google Cybersecurity Certificate**
-- 🟦 **Microsoft Certified: Azure Fundamentals (AZ-900)**
+- 🟦 Certified Ethical Hacker  
+- 🟦 AWS Cloud Practitioner  
+- 🟧 CompTIA Network+  
+- 🟥 CompTIA Security+  
+- 🟨 Google Cybersecurity Certificate  
+- 🟦 Microsoft Certified: Azure Fundamentals (AZ-900)
 
 ---
 
 ## 🎓 Education & 12-Month Roadmap
 
-- 🎓 **Bachelor of Science in Cybersecurity** *(in progress)*  
+- **Bachelor of Science in Cybersecurity** *(in progress)*  
 
-**Next 12 Months (aggressive target):**
-
-- **MBA – program start**
+**Next 12 Months (aggressive target):**  
+- MBA – program start
 
 ---
 
@@ -90,7 +99,7 @@ I build and document hands-on labs across AWS, Azure, and hybrid on-prem environ
 
 - Expanding my **SOC home lab** (Wazuh SIEM, Suricata IDS, Pi-hole DNS filtering, pfSense/Proxmox) to simulate real-world detection and response scenarios.  
 - Developing **Python automation pipelines** for log parsing, anomaly detection, alert enrichment, and ticket/workflow creation.  
-- Building **small cloud apps on AWS/Azure** (APIs, dashboards, and automation scripts) that tie together SOC tooling and cloud security controls.  
-- Shipping **AI-driven tools** (local 3090 LLM gateway + Hugging Face Spaces) that turn runbooks, hunts, and incident reports into actionable guidance for analysts.  
+- Building **small cloud apps** (APIs, dashboards, automation scripts) that tie together SOC tooling and cloud security controls.  
+- Shipping **AI-driven tools** using a local 3090 LLM gateway + hosted models to turn runbooks, hunts, and incidents into actionable guidance.  
 - Using the **ES AI Immersion Lab** to push toward fluent Spanish through daily AI-powered conversation practice.  
-- Preparing for advanced certifications (**CISSP track**, **PenTest+**, **CASP+**) through hands-on labs, incident simulations, and automation projects.
+- Preparing for advanced certifications (**CISSP track**, **PenTest+**, **CASP+**) through hands-on labs and IR simulations.
