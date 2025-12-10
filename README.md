@@ -77,7 +77,7 @@ My labs, incident reports, and automation projects are all designed to reflect r
 
 ## 🧠 Certifications
 
-- 🟦 Certified Ethical Hacker  
+- 🟩 Certified Ethical Hacker  
 - 🟦 AWS Cloud Practitioner  
 - 🟧 CompTIA Network+  
 - 🟥 CompTIA Security+  
