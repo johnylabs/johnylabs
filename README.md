@@ -3,7 +3,7 @@
 Cloud & Cybersecurity Engineer on the **SOC Analyst → Incident Response → SecOps Manager** path.  
 Focused on SOC operations, cloud infrastructure, and Python/LLM automation.
 
-I build and document hands-on labs across AWS, Azure, and hybrid on-prem environments — integrating security monitoring, detection, and automated response workflows.
+I build and document hands-on labs across AWS, Azure, and hybrid on-prem environments, integrating security monitoring, detection, and automated response workflows.
 
 ---
 
@@ -82,7 +82,7 @@ My labs, incident reports, and automation projects are all designed to reflect r
 - 🟧 CompTIA Network+  
 - 🟥 CompTIA Security+  
 - 🟨 Google Cybersecurity Certificate  
-- 🟦 Microsoft Certified: Azure Fundamentals (AZ-900)
+- 🟦 Microsoft Certified: Azure Fundamentals
 
 ---
 
