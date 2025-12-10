@@ -67,7 +67,8 @@ I build and document hands-on labs across AWS, Azure, and hybrid on-prem environ
 
 ## 🧠 Certifications
 
-- 🟦 **AWS Certified Solutions Architect – Associate (SAA-C03)**
+- 🟦 **Certified Ethical Hacker**
+- 🟦 **AWS Cloud Practictioner**
 - 🟧 **CompTIA Network+**
 - 🟥 **CompTIA Security+**
 - 🟨 **Google Cybersecurity Certificate**
@@ -77,14 +78,11 @@ I build and document hands-on labs across AWS, Azure, and hybrid on-prem environ
 
 ## 🎓 Education & 12-Month Roadmap
 
-- 🎓 **Bachelor of Cloud and Network Engineering** *(in progress)*  
+- 🎓 **Bachelor of Science in Cybersecurity** *(in progress)*  
 
 **Next 12 Months (aggressive target):**
 
-- **CompTIA PenTest+**  
-- **CompTIA CASP+**  
-- **ISACA CISM**  
-- **M.S. in Cybersecurity / Information Assurance – program start**
+- **MBA – program start**
 
 ---
 
