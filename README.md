@@ -9,7 +9,7 @@ I build and document hands-on labs across AWS, Azure, and hybrid on-prem environ
 
 ## 🎯 Career Path
 
-**SOC Internship → SOC Analyst → Incident Response → SecOps Manager**
+**SOC Analyst → Incident Response → SecOps Manager**
 
 My labs, incident reports, and automation projects are all designed to reflect real responsibilities across this progression: alert triage, threat hunting, IR workflows, automation pipelines, and SecOps-level architecture.
 
