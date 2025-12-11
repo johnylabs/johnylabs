@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Johny
 
-Cloud & Cybersecurity Engineer on the **SOC Analyst → Incident Response → SecOps Manager** path.  
+Cloud & Cybersecurity Engineer on the **SOC Analyst → Incident Response → Manager** path.  
 Focused on SOC operations, cloud infrastructure, and Python/LLM automation.
 
 I build and document hands-on labs across AWS, Azure, and hybrid on-prem environments, integrating security monitoring, detection, and automated response workflows.
@@ -9,7 +9,7 @@ I build and document hands-on labs across AWS, Azure, and hybrid on-prem environ
 
 ## 🎯 Career Path
 
-**SOC Analyst → Incident Response → SecOps Manager**
+**SOC Analyst → Incident Response → Manager**
 
 My labs, incident reports, and automation projects are all designed to reflect real responsibilities across this progression: alert triage, threat hunting, IR workflows, automation pipelines, and SecOps-level architecture.
 
@@ -77,11 +77,11 @@ My labs, incident reports, and automation projects are all designed to reflect r
 
 ## 🧠 Certifications
 
-- 🟩 Certified Ethical Hacker  
-- 🟦 AWS Cloud Practitioner  
-- 🟧 CompTIA Network+  
-- 🟥 CompTIA Security+  
-- 🟨 Google Cybersecurity Certificate  
+- 🟥 CompTIA Security+
+- 🟨 Google Cybersecurity Certificate
+- 🟧 CompTIA Network+
+- 🟩 Splunk Core Certified Power User
+- 🟦 AWS Cloud Practitioner
 - 🟦 Microsoft Certified: Azure Fundamentals
 
 ---
