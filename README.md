@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Johny
+# 👋 Hi, I’m Dedan!
 
 Cloud & Cybersecurity Engineer on the **SOC Analyst → Incident Response → Manager** path.  
 Focused on SOC operations, cloud infrastructure, and Python/LLM automation.
