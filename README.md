@@ -4,7 +4,7 @@
 Focused on **detection, investigation, response, and automation** across SOC and cloud environments.
 
 I build and document hands-on labs across AWS, Azure, and hybrid on-prem environments, integrating security monitoring, detection logic, and automated response workflows.  
-My work is **defensive and operational** — focused on making security teams faster, more accurate, and more reliable.
+My work is **defensive and operational**, focused on making security teams faster, more accurate, and more reliable.
 
 ---
 
