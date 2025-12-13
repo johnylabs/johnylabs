@@ -1,9 +1,10 @@
 # 👋 Hi, I’m Dedan!
 
-Cloud & Cybersecurity Engineer on the **SOC Analyst → Incident Response → Manager** path.  
-Focused on SOC operations, cloud infrastructure, and Python/LLM automation.
+Security Analyst on the **SOC Analyst → Incident Response → Security Operations Manager** path.  
+Focused on **detection, investigation, response, and automation** across SOC and cloud environments.
 
-I build and document hands-on labs across AWS, Azure, and hybrid on-prem environments, integrating security monitoring, detection, and automated response workflows.
+I build and document hands-on labs across AWS, Azure, and hybrid on-prem environments, integrating security monitoring, detection logic, and automated response workflows.  
+My work is **defensive and operational** — focused on making security teams faster, more accurate, and more reliable.
 
 ---
 
@@ -11,33 +12,54 @@ I build and document hands-on labs across AWS, Azure, and hybrid on-prem environ
 
 **SOC Analyst → Incident Response → Manager**
 
-My labs, incident reports, and automation projects are all designed to reflect real responsibilities across this progression: alert triage, threat hunting, IR workflows, automation pipelines, and SecOps-level architecture.
+All labs, incident reports, and automation projects are designed to reflect real SOC responsibilities across this progression:
+- Alert triage and escalation  
+- Threat hunting and investigation  
+- Incident response workflows  
+- Detection engineering and automation  
+- SecOps-level documentation and process improvement  
+
+---
+
+## 🧠 Representative SOC Case Study (How I Work)
+
+**Scenario:** IDS + SIEM alert indicating possible SSH brute force  
+**Process:**
+1. Alert ingestion from Suricata → Wazuh → Splunk  
+2. Event normalization and enrichment (IP reputation, frequency, asset context)  
+3. Investigation using correlated DNS, auth, and network logs  
+4. MITRE ATT&CK mapping and severity classification  
+5. Response decision (block, monitor, or escalate)  
+6. Incident write-up with timeline, evidence, and lessons learned  
+
+This same workflow underpins my labs, automation pipelines, and incident reports.
 
 ---
 
 ## 📂 Featured Projects
 
-- [**Security Event Explorer**](https://github.com/johnylabs/security-event-explorer)  
-  Full-stack React + Python web application for browsing, filtering, and annotating security alerts from my SOC lab.  
-  Includes a FastAPI backend, Postgres database, JWT auth, and a React UI for alert triage and analyst notes.
-
-- [**Market Deviation Tracker**](https://github.com/johnylabs/Market-Deviation-Tracker)  
-  Quantitative analysis tool that tracks grocery price movements, detects deviations from normal ranges, and highlights opportunities where consumers can exploit pricing inefficiencies.
-
 - [**SOC Alert Automation**](https://github.com/johnylabs/soc-alert-automation)  
-  Python pipeline that ingests Wazuh/Suricata alerts, normalizes events, enriches with context, and sends notifications to chat (Discord/Slack-style) for fast analyst triage.
-
-- [**Threat Hunting Lab**](https://github.com/johnylabs/threat-hunting)  
-  Hypothesis-driven hunts across Wazuh, Suricata, and cloud logs — with hunts, Sigma/Wazuh rules, and Jupyter notebooks for DNS tunneling, SSH brute force, and cloud anomalies.
+  Python pipeline that ingests Wazuh/Suricata alerts, normalizes events, enriches with context, and sends structured notifications to chat platforms for fast analyst triage.
 
 - [**Incident Reports**](https://github.com/johnylabs/incident-reports)  
-  Structured SOC incident write-ups with timelines, MITRE ATT&CK mapping, evidence, and lessons learned — written as if for a real SOC manager or client.
+  Structured SOC incident write-ups with timelines, MITRE ATT&CK mapping, evidence, impact analysis, and remediation — written as if for a real SOC manager or client.
+
+- [**Threat Hunting Lab**](https://github.com/johnylabs/threat-hunting)  
+  Hypothesis-driven hunts across Wazuh, Suricata, and cloud logs, including Sigma/Wazuh rules and Jupyter notebooks for DNS tunneling, SSH brute force, and cloud anomalies.
+
+- [**Security Event Explorer**](https://github.com/johnylabs/security-event-explorer)  
+  Full-stack React + Python web application for browsing, filtering, and annotating security alerts from my SOC lab.  
+  Includes a FastAPI backend, Postgres database, JWT auth, and a React UI designed for analyst workflows.
 
 - [**AI Runbook QA**](https://github.com/johnylabs/ai-runbook-qa)  
-  LLM-based assistant that reads SOC runbooks and incidents, then answers analyst questions and suggests response steps. Designed for offline / lab use first.
+  LLM-based assistant that reads SOC runbooks and incident documentation, then answers analyst questions and suggests response steps. Designed for lab and offline use.
+
+- [**Market Deviation Tracker**](https://github.com/johnylabs/Market-Deviation-Tracker)  
+  Quantitative anomaly detection tool that tracks pricing data, identifies deviations from normal ranges, and supports data-driven decision making.  
+  Built to reinforce analytical thinking, signal detection, and noise reduction skills used in security operations.
 
 - [**ES AI Tutor**](https://github.com/johnylabs/es-ai-tutor)  
-  Spanish learning lab using local and hosted LLMs to run structured conversation practice, correction, and vocab drills — built for daily Spanish immersion.
+  Spanish learning lab using local and hosted LLMs to support structured conversation practice, correction, and vocabulary drills — built for daily operational Spanish immersion.
 
 ---
 
@@ -86,19 +108,27 @@ My labs, incident reports, and automation projects are all designed to reflect r
 
 ---
 
-## 🎓 Education & 12-Month Roadmap
+## 🎓 Education & Roadmap
 
 - **Bachelor of Science in Cybersecurity** *(in progress)*  
 
-**Next 12 Months (aggressive target):**  
-- MBA – program start
+**Next 12 Months:**  
+- MBA – program start  
+- Continued SOC automation and cloud security engineering projects
 
 ---
 
-## 🚀 Current Focus & What I’m Building
+## 🚀 Current Focus
 
-- Expanding my **SOC home lab** (Wazuh SIEM, Suricata IDS, Pi-hole DNS filtering, pfSense/Proxmox) to simulate real-world detection and response scenarios.  
-- Developing **Python automation pipelines** for log parsing, anomaly detection, alert enrichment, and ticket/workflow creation.  
-- Building **small cloud apps** (APIs, dashboards, automation scripts) that tie together SOC tooling and cloud security controls.  
-- Shipping **AI-driven tools** using a local 3090 LLM gateway + hosted models to turn runbooks, hunts, and incidents into actionable guidance.  
-- Using the **ES AI Immersion Lab** to push toward fluent Spanish through daily AI-powered conversation practice. 
+- Expanding my **SOC home lab** to simulate real-world detection and response scenarios.  
+- Developing **Python automation pipelines** for alert enrichment, anomaly detection, and workflow orchestration.  
+- Building **cloud-integrated SOC tooling** that ties SIEM, identity, and logging together.  
+- Using AI tooling to improve **runbooks, investigations, and analyst efficiency**.  
+- Pushing toward **operational Spanish fluency** for security roles in Spanish-speaking environments.
+
+---
+
+## 🌍 Work Authorization
+
+🇲🇽 Based in Mexico – valid open work authorization  
+🇦🇺 Australian citizen
