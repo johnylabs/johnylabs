@@ -59,7 +59,7 @@ If you want to see how I actually work as an analyst:
   Python pipeline that ingests Wazuh/Suricata alerts, normalizes events, enriches with context, and sends structured notifications to chat platforms for fast analyst triage.
 
 - [**Incident Reports**](https://github.com/johnylabs/incident-reports)  
-  Structured SOC incident write-ups with timelines, MITRE ATT&CK mapping, evidence, impact analysis, and remediation — written as if for a real SOC manager or client.
+  Structured SOC incident write-ups with timelines, MITRE ATT&CK mapping, evidence, impact analysis, and remediation.
 
 - [**Threat Hunting Lab**](https://github.com/johnylabs/threat-hunting)  
   Hypothesis-driven hunts across Wazuh, Suricata, and cloud logs, including Sigma/Wazuh rules and Jupyter notebooks for DNS tunneling, SSH brute force, and cloud anomalies.
@@ -125,8 +125,8 @@ These projects support my analytical, automation, and language capabilities alon
 - 🟧 CompTIA Network+
 - 🟩 Splunk Core Certified Power User
 - 🟦 AWS Cloud Practitioner
-- 🟦 Microsoft Certified: Azure Fundamentals
-- 🟪 **Microsoft Certified: SC-200 (In Progress)**
+- 🟦 Microsoft Certified: Azure Fundamentals AZ-900
+- 🟪 **Microsoft Certified: Microsoft Certified: Security Operations Analyst Associate SC-200 (In Progress)**
 
 ---
 
@@ -153,5 +153,5 @@ These projects support my analytical, automation, and language capabilities alon
 
 ## 🌍 Work Authorization
 
-🇲🇽 Based in Mexico – valid open work authorization  
+🇲🇽 Based in Mexico with valid work authorization  
 🇦🇺 Australian citizen
