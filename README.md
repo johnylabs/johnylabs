@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Dedan!
 
-Security Analyst on the **SOC Analyst → Incident Response → Security Operations Manager** path.  
+**Security Analyst (SOC / Incident Response)** on the **SOC Analyst → Incident Response → Security Operations Manager** path.  
 Focused on **detection, investigation, response, and automation** across SOC and cloud environments.
 
 I build and document hands-on labs across AWS, Azure, and hybrid on-prem environments, integrating security monitoring, detection logic, and automated response workflows.  
@@ -10,7 +10,7 @@ My work is **defensive and operational** — focused on making security teams fa
 
 ## 🎯 Career Path
 
-**SOC Analyst → Incident Response → Manager**
+**SOC Analyst → Incident Response → Security Operations Manager**
 
 All labs, incident reports, and automation projects are designed to reflect real SOC responsibilities across this progression:
 - Alert triage and escalation  
@@ -24,6 +24,7 @@ All labs, incident reports, and automation projects are designed to reflect real
 ## 🧠 Representative SOC Case Study (How I Work)
 
 **Scenario:** IDS + SIEM alert indicating possible SSH brute force  
+
 **Process:**
 1. Alert ingestion from Suricata → Wazuh → Splunk  
 2. Event normalization and enrichment (IP reputation, frequency, asset context)  
@@ -32,11 +33,27 @@ All labs, incident reports, and automation projects are designed to reflect real
 5. Response decision (block, monitor, or escalate)  
 6. Incident write-up with timeline, evidence, and lessons learned  
 
+**Evidence:**
+- Detection rules: `/threat-hunting/rules/`
+- Correlated events: `/incident-reports/`
+- Automation logic: `/soc-alert-automation/`
+- SIEM queries & enrichment logic: `/soc-alert-automation/`
+
 This same workflow underpins my labs, automation pipelines, and incident reports.
 
 ---
 
-## 📂 Featured Projects
+## ⭐ SOC Core Workflow (Start Here)
+
+If you want to see how I actually work as an analyst:
+
+1. **Alert ingestion & normalization** → [SOC Alert Automation](https://github.com/johnylabs/soc-alert-automation)  
+2. **Investigation & escalation** → [Incident Reports](https://github.com/johnylabs/incident-reports)  
+3. **Detection improvement & hunting** → [Threat Hunting Lab](https://github.com/johnylabs/threat-hunting)
+
+---
+
+## 📂 Featured SOC Projects
 
 - [**SOC Alert Automation**](https://github.com/johnylabs/soc-alert-automation)  
   Python pipeline that ingests Wazuh/Suricata alerts, normalizes events, enriches with context, and sends structured notifications to chat platforms for fast analyst triage.
@@ -54,12 +71,17 @@ This same workflow underpins my labs, automation pipelines, and incident reports
 - [**AI Runbook QA**](https://github.com/johnylabs/ai-runbook-qa)  
   LLM-based assistant that reads SOC runbooks and incident documentation, then answers analyst questions and suggests response steps. Designed for lab and offline use.
 
+---
+
+## 🧪 Supporting Projects (Analytics & Language)
+
+These projects support my analytical, automation, and language capabilities alongside SOC work.
+
 - [**Market Deviation Tracker**](https://github.com/johnylabs/Market-Deviation-Tracker)  
-  Quantitative anomaly detection tool that tracks pricing data, identifies deviations from normal ranges, and supports data-driven decision making.  
-  Built to reinforce analytical thinking, signal detection, and noise reduction skills used in security operations.
+  Quantitative anomaly detection tool that tracks pricing data, identifies deviations from normal ranges, and reinforces signal vs noise analysis.
 
 - [**ES AI Tutor**](https://github.com/johnylabs/es-ai-tutor)  
-  Spanish learning lab using local and hosted LLMs to support structured conversation practice, correction, and vocabulary drills — built for daily operational Spanish immersion.
+  Spanish learning lab using local and hosted LLMs to support structured conversation practice, correction, and vocabulary drills — built for operational Spanish immersion.
 
 ---
 
@@ -100,11 +122,11 @@ This same workflow underpins my labs, automation pipelines, and incident reports
 ## 🧠 Certifications
 
 - 🟥 CompTIA Security+
-- 🟨 Google Cybersecurity Certificate
 - 🟧 CompTIA Network+
 - 🟩 Splunk Core Certified Power User
 - 🟦 AWS Cloud Practitioner
 - 🟦 Microsoft Certified: Azure Fundamentals
+- 🟪 **Microsoft Certified: SC-200 (In Progress)**
 
 ---
 
@@ -113,8 +135,9 @@ This same workflow underpins my labs, automation pipelines, and incident reports
 - **Bachelor of Science in Cybersecurity** *(in progress)*  
 
 **Next 12 Months:**  
+- SC-200 completion  
+- Continued SOC automation and detection engineering projects  
 - MBA – program start  
-- Continued SOC automation and cloud security engineering projects
 
 ---
 
