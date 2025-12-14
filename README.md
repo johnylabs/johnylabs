@@ -125,7 +125,7 @@ These projects support my analytical, automation, and language capabilities alon
 - 🟧 CompTIA Network+
 - 🟦 AWS Cloud Practitioner
 - 🟦 Microsoft Certified: Azure Fundamentals AZ-900
-- 🟪 **Splunk Core Certified User (In Progress)**
+- 🟪 **A+ (In Progress)**
 - 🟪 **Microsoft Certified: Microsoft Certified: Security Operations Analyst Associate SC-200 (In Progress)**
 
 ---
