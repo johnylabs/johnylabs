@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Dedan!
 
-**Security Analyst (SOC / Incident Response)** on the **SOC Analyst → Incident Response → Security Operations Manager** path.  
+**Security Analyst (SOC / IR)** on the **SOC Analyst → Incident Response → Security Operations Manager** path.  
 Focused on **detection, investigation, response, and automation** across SOC and cloud environments.
 
 I build and document hands-on labs across AWS, Azure, and hybrid on-prem environments, integrating security monitoring, detection logic, and automated response workflows.  
