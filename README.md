@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Dedan!
 
 **Security Analyst (SOC / IR)** on the **SOC Analyst → Incident Response → Security Operations Manager** path.  
-Focused on **detection, investigation, response, and automation** across SOC and cloud environments.
+Focused on **detection, investigation, response, automation, and vulnerability-driven risk reduction** across SOC and cloud environments.
 
 I build and document hands-on labs across AWS, Azure, and hybrid on-prem environments, integrating security monitoring, detection logic, and automated response workflows.  
 My work is **defensive and operational**, focused on making security teams faster, more accurate, and more reliable.
@@ -53,6 +53,22 @@ If you want to see how I actually work as an analyst:
 
 ---
 
+## 🧱 Upstream Security Inputs (Prevention → Better Detection)
+
+My SOC work is informed by upstream security data that improves alert quality and prioritization:
+
+- Vulnerability scanning and exposure analysis (Tenable Nessus)
+- Asset context and configuration state
+- Patch status and known exploitability
+- Mapping vulnerabilities to potential detection gaps
+
+This allows me to:
+- Prioritize alerts based on real exposure
+- Reduce false positives caused by known misconfigurations
+- Align detections with actual attack paths
+
+---
+
 ## 📂 Featured SOC Projects
 
 - [**SOC Alert Automation**](https://github.com/johnylabs/soc-alert-automation)  
@@ -63,6 +79,11 @@ If you want to see how I actually work as an analyst:
 
 - [**Threat Hunting Lab**](https://github.com/johnylabs/threat-hunting)  
   Hypothesis-driven hunts across Wazuh, Suricata, and cloud logs, including Sigma/Wazuh rules and Jupyter notebooks for DNS tunneling, SSH brute force, and cloud anomalies.
+
+- [**Vulnerability Management Lab (Tenable)**](https://github.com/johnylabs/vulnerability-management)  
+  Hands-on vulnerability scanning and remediation workflows using Tenable Nessus.  
+  Includes executive summaries, risk-based prioritization, remediation notes, and validation scans.  
+  Designed to mirror how SOC and SecOps teams reduce attack surface and improve detection signal quality.
 
 - [**Security Event Explorer**](https://github.com/johnylabs/security-event-explorer)  
   Full-stack React + Python web application for browsing, filtering, and annotating security alerts from my SOC lab.  
@@ -98,9 +119,11 @@ These projects support my analytical, automation, and language capabilities alon
 ## 🧰 Tech Stack
 
 ### 🛡️ Security / SOC
+![Microsoft Sentinel](https://img.shields.io/badge/Microsoft%20Sentinel-0078D4?logo=microsoft&logoColor=white)
 ![Splunk](https://img.shields.io/badge/Splunk-000000?logo=splunk&logoColor=white)
 ![Wazuh](https://img.shields.io/badge/Wazuh-02569B?logo=wazuh&logoColor=white)
 ![Suricata](https://img.shields.io/badge/Suricata-FF4500?logo=suricata&logoColor=white)
+![Tenable Nessus](https://img.shields.io/badge/Tenable%20Nessus-00B3E6?logo=tenable&logoColor=white)
 ![Pi-hole](https://img.shields.io/badge/Pi--hole-96060C?logo=pihole&logoColor=white)
 
 ### ☁️ Cloud & Virtualization
@@ -126,7 +149,7 @@ These projects support my analytical, automation, and language capabilities alon
 - 🟦 AWS Cloud Practitioner
 - 🟦 Microsoft Certified: Azure Fundamentals AZ-900
 - 🟪 **CySA+ (In Progress)**
-- 🟪 **Microsoft Certified: Microsoft Certified: Security Operations Analyst Associate SC-200 (In Progress)**
+- 🟪 **Microsoft Certified: Security Operations Analyst Associate SC-200 (In Progress)**
 
 ---
 
@@ -135,8 +158,8 @@ These projects support my analytical, automation, and language capabilities alon
 - **Bachelor of Science in Cybersecurity** *(in progress)*  
 
 **Next 12 Months:**  
-- SC-200 completion
-- CySA+ completion
+- SC-200 completion  
+- CySA+ completion  
 - Continued SOC automation and detection engineering projects  
 - MBA – program start  
 
@@ -144,15 +167,8 @@ These projects support my analytical, automation, and language capabilities alon
 
 ## 🚀 Current Focus
 
-- Expanding my **SOC home lab** to simulate real-world detection and response scenarios.  
-- Developing **Python automation pipelines** for alert enrichment, anomaly detection, and workflow orchestration.  
-- Building **cloud-integrated SOC tooling** that ties SIEM, identity, and logging together.  
-- Using AI tooling to improve **runbooks, investigations, and analyst efficiency**.  
-- Pushing toward **operational Spanish fluency** for security roles in Spanish-speaking environments.
-
----
-
-## 🌍 Work Authorization
-
-🇲🇽 Based in Mexico with valid work authorization  
-🇦🇺 Australian citizen
+- Expanding my **SOC home lab** to simulate real-world detection and response scenarios  
+- Developing **Python automation pipelines** for alert enrichment, anomaly detection, and workflow orchestration  
+- Building **cloud-integrated SOC tooling** that ties SIEM, identity, and logging together  
+- Using AI tooling to improve **runbooks, investigations, and analyst efficiency**  
+- Pushing toward **operational Spanish fluency** for security roles in Spanish-speaking environments  
