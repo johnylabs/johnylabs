@@ -125,7 +125,7 @@ These projects support my analytical, automation, and language capabilities alon
 - 🟧 CompTIA Network+
 - 🟦 AWS Cloud Practitioner
 - 🟦 Microsoft Certified: Azure Fundamentals AZ-900
-- 🟪 **A+ (In Progress)**
+- 🟪 **CySA+ (In Progress)**
 - 🟪 **Microsoft Certified: Microsoft Certified: Security Operations Analyst Associate SC-200 (In Progress)**
 
 ---
@@ -135,7 +135,8 @@ These projects support my analytical, automation, and language capabilities alon
 - **Bachelor of Science in Cybersecurity** *(in progress)*  
 
 **Next 12 Months:**  
-- SC-200 completion  
+- SC-200 completion
+- CySA+ completion
 - Continued SOC automation and detection engineering projects  
 - MBA – program start  
 
