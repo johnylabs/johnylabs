@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Dedan!
 
-**Security Analyst (SOC / IR)** on the **SOC Analyst → Incident Response → Security Operations Manager** path.  
+**Security Analyst (SOC / IR)** on the **SOC Analyst (Level 1) → SOC Analyst (Level 2) → Incident Response** path.  
 Focused on **detection, investigation, response, automation, and vulnerability-driven risk reduction** across SOC and cloud environments.
 
 I build and document hands-on labs across AWS, Azure, and hybrid on-prem environments, integrating security monitoring, detection logic, and automated response workflows.  
@@ -10,7 +10,7 @@ My work is **defensive and operational**, focused on making security teams faste
 
 ## 🎯 Career Path
 
-**SOC Analyst → Incident Response → Security Operations Manager**
+**SOC Analyst (Level 1) → SOC Analyst (Level 2) → Incident Response**
 
 All labs, incident reports, and automation projects are designed to reflect real SOC responsibilities across this progression:
 - Alert triage and escalation  
