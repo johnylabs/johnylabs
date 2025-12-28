@@ -2,14 +2,17 @@
 
 ### 1. [**SOC ALERT INVESTIGATION & INCIDENT HANDLING**](https://github.com/johnylabs/incident-reports) 
 - Alert ingestion, enrichment, investigation, escalation
-- End-to-end incident report with MITRE ATT&CK mapping  
+- End-to-end incident report with MITRE ATT&CK mapping
 
+### 2. [**IT SUPPORT & TICKET TRIAGE WORKFLOW**](https://github.com/johnylabs/it-support) 
+- User-reported issue intake, categorization, and prioritization
+- First-response troubleshooting and clear resolution notes
 
-### 2. [**Vulnerability Management & Risk Prioritization**](https://github.com/johnylabs/vulnerability-management) 
+### 3. [**Vulnerability Management & Risk Prioritization**](https://github.com/johnylabs/vulnerability-management) 
 - Tenable Nessus scanning and analysis
 - Risk-based prioritization and remediation planning  
 
-### 3. [**Analytical Automation: Market Deviation Tracker**](https://github.com/johnylabs/market-deviation-tracker) 
+### BONUS. [**Analytical Automation: Market Deviation Tracker**](https://github.com/johnylabs/market-deviation-tracker) 
 - Python-based anomaly detection and alert logic
 - Demonstrates signal vs noise reasoning  
 
