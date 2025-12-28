@@ -3,7 +3,7 @@ My work prioritizes **signal quality, evidence-based decisions, and analyst effi
 
 ## Core Projects
 
-### 1. [**SOC ALERT INVESTIGATION & INCIDENT HANDLING**](https://github.com/johnylabs/ai-runbook-qa) 
+### 1. [**SOC ALERT INVESTIGATION & INCIDENT HANDLING**](https://github.com/johnylabs/incident-reports) 
 - Alert ingestion, enrichment, investigation, escalation
 - End-to-end incident report with MITRE ATT&CK mapping  
 
@@ -12,7 +12,7 @@ My work prioritizes **signal quality, evidence-based decisions, and analyst effi
 - Tenable Nessus scanning and analysis
 - Risk-based prioritization and remediation planning  
 
-### 3. [**Analytical Automation — Market Deviation Tracker**](https://github.com/johnylabs/market-deviation-tracker) 
+### 3. [**Analytical Automation: Market Deviation Tracker**](https://github.com/johnylabs/market-deviation-tracker) 
 - Python-based anomaly detection and alert logic
 - Demonstrates signal vs noise reasoning  
 
