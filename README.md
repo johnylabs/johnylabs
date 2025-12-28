@@ -16,7 +16,6 @@
 - Python-based anomaly detection and alert logic
 
 ## Certifications
-## Certifications
 ![CompTIA Security+](https://img.shields.io/badge/CompTIA-Security%2B-EA1D25?logo=comptia&logoColor=white)
 ![CompTIA Network+](https://img.shields.io/badge/CompTIA-Network%2B-EA1D25?logo=comptia&logoColor=white)
 ![Microsoft Azure Fundamentals](https://img.shields.io/badge/Microsoft-AZ--900-0078D4?logo=microsoftazure&logoColor=white)
