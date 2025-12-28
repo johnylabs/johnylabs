@@ -14,7 +14,6 @@
 
 ### [**Analytical Automation: Market Deviation Tracker**](https://github.com/johnylabs/market-deviation-tracker) 
 - Python-based anomaly detection and alert logic
-- Demonstrates signal vs noise reasoning  
 
 ## Certifications
 CompTIA Security+ · CompTIA Network+ · AWS Cloud Practitioner · Microsoft Azure Fundamentals (AZ-900)
