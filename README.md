@@ -1,7 +1,4 @@
-I build and document **operational SOC workflows** focused on alert triage, investigation, and incident response across SIEM, IDS, and cloud environments.  
-My work prioritizes **signal quality, evidence-based decisions, and analyst efficiency**.
-
-## Core Projects
+## Projects
 
 ### 1. [**SOC ALERT INVESTIGATION & INCIDENT HANDLING**](https://github.com/johnylabs/incident-reports) 
 - Alert ingestion, enrichment, investigation, escalation
