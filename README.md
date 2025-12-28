@@ -12,7 +12,8 @@
 - Tenable Nessus scanning and analysis
 - Risk-based prioritization and remediation planning  
 
-### Python Project [**Analytical Automation: Market Deviation Tracker**](https://github.com/johnylabs/market-deviation-tracker) 
+### Python Project:
+[**Analytical Automation: Market Deviation Tracker**](https://github.com/johnylabs/market-deviation-tracker) 
 - Python-based anomaly detection and alert logic
 - Demonstrates signal vs noise reasoning  
 
