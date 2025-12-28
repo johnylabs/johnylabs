@@ -1,4 +1,23 @@
-# Dedan — SOC Analyst (L1–L2 / IR Track)
+I build and document **operational SOC workflows** focused on alert triage, investigation, and incident response across SIEM, IDS, and cloud environments.  
+My work prioritizes **signal quality, evidence-based decisions, and analyst efficiency**.
+
+## Core Projects
+
+### 1. [**SOC ALERT INVESTIGATION & INCIDENT HANDLING**](https://github.com/johnylabs/ai-runbook-qa) 
+- Alert ingestion, enrichment, investigation, escalation
+- End-to-end incident report with MITRE ATT&CK mapping  
+
+
+### 2. [**Vulnerability Management & Risk Prioritization**](https://github.com/johnylabs/vulnerability-management) 
+- Tenable Nessus scanning and analysis
+- Risk-based prioritization and remediation planning  
+
+### 3. [**Analytical Automation — Market Deviation Tracker**](https://github.com/johnylabs/market-deviation-tracker) 
+- Python-based anomaly detection and alert logic
+- Demonstrates signal vs noise reasoning  
+
+## Certifications
+CompTIA Security+ · CompTIA Network+ · AWS Cloud Practitioner · Microsoft Azure Fundamentals (AZ-900)
 
 ## Security & SOC Tooling
 ![Microsoft Sentinel](https://img.shields.io/badge/Microsoft%20Sentinel-0078D4?logo=microsoft&logoColor=white)
@@ -21,29 +40,3 @@
 ## Systems & Networking
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 ![Networking](https://img.shields.io/badge/Networking-0078D7?logo=cisco&logoColor=white)
-
----
-
-I build and document **operational SOC workflows** focused on alert triage, investigation, and incident response across SIEM, IDS, and cloud environments.  
-My work prioritizes **signal quality, evidence-based decisions, and analyst efficiency**.
-
-## Core Projects
-
-### 1. [**SOC ALERT INVESTIGATION & INCIDENT HANDLING**](https://github.com/johnylabs/ai-runbook-qa) 
-- Alert ingestion, enrichment, investigation, escalation
-- End-to-end incident report with MITRE ATT&CK mapping  
-
-
-### 2. [**Vulnerability Management & Risk Prioritization**](https://github.com/johnylabs/vulnerability-management) 
-- Tenable Nessus scanning and analysis
-- Risk-based prioritization and remediation planning  
-
-### 3. [**Analytical Automation — Market Deviation Tracker**](https://github.com/johnylabs/market-deviation-tracker) 
-- Python-based anomaly detection and alert logic
-- Demonstrates signal vs noise reasoning  
-
-## Certifications
-CompTIA Security+ · CompTIA Network+ · AWS Cloud Practitioner · Microsoft Azure Fundamentals (AZ-900)
-
-## Roles of Interest
-SOC Analyst (L1/L2) · Incident Response · Security Operations
