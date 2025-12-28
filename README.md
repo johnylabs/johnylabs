@@ -16,7 +16,7 @@
 - Python-based anomaly detection and alert logic
 
 ## Certifications
-Security+ · Network+ · Microsoft Azure Fundamentals (AZ-900) · AWS Certified Cloud Practitioner · Linux LPI
+  Security+ · Network+ · Microsoft Azure Fundamentals (AZ-900) · AWS Certified Cloud Practitioner · Linux LPI
 
 ## SOC Tooling
 ![Microsoft Sentinel](https://img.shields.io/badge/Microsoft%20Sentinel-0078D4?logo=microsoft&logoColor=white)
