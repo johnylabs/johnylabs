@@ -18,7 +18,7 @@
 ## Certifications
 CompTIA Security+ · CompTIA Network+ · AWS Cloud Practitioner · Microsoft Azure Fundamentals (AZ-900)
 
-## Security & SOC Tooling
+## SOC Tooling
 ![Microsoft Sentinel](https://img.shields.io/badge/Microsoft%20Sentinel-0078D4?logo=microsoft&logoColor=white)
 ![Splunk](https://img.shields.io/badge/Splunk-000000?logo=splunk&logoColor=white)
 ![Wazuh](https://img.shields.io/badge/Wazuh-02569B?logo=wazuh&logoColor=white)
@@ -26,7 +26,7 @@ CompTIA Security+ · CompTIA Network+ · AWS Cloud Practitioner · Microsoft Azu
 ![Tenable Nessus](https://img.shields.io/badge/Tenable%20Nessus-00B3E6?logo=tenable&logoColor=white)
 ![Pi-hole](https://img.shields.io/badge/Pi--hole-96060C?logo=pihole&logoColor=white)
 
-## Cloud & Virtualization
+## Cloud
 ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?logo=microsoftazure&logoColor=white)
 ![Proxmox](https://img.shields.io/badge/Proxmox-E57000?logo=proxmox&logoColor=white)
