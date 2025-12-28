@@ -16,7 +16,12 @@
 - Python-based anomaly detection and alert logic
 
 ## Certifications
-  Security+ · Network+ · Microsoft Azure Fundamentals (AZ-900) · AWS Certified Cloud Practitioner · Linux LPI
+## Certifications
+![CompTIA Security+](https://img.shields.io/badge/CompTIA-Security%2B-EA1D25?logo=comptia&logoColor=white)
+![CompTIA Network+](https://img.shields.io/badge/CompTIA-Network%2B-EA1D25?logo=comptia&logoColor=white)
+![Microsoft Azure Fundamentals](https://img.shields.io/badge/Microsoft-AZ--900-0078D4?logo=microsoftazure&logoColor=white)
+![AWS Cloud Practitioner](https://img.shields.io/badge/AWS-Cloud%20Practitioner-232F3E?logo=amazonaws&logoColor=white)
+![Linux Essentials](https://img.shields.io/badge/Linux-Essentials-FCC624?logo=linux&logoColor=black)
 
 ## SOC Tooling
 ![Microsoft Sentinel](https://img.shields.io/badge/Microsoft%20Sentinel-0078D4?logo=microsoft&logoColor=white)
